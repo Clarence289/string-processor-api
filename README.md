@@ -55,5 +55,5 @@ To deploy this API:
 2. Deploy your code
 3. Update the test endpoint URL with your deployed API URL:
 ```
-https://yhxzjyykdsfkdrmdxgho.supabase.co/functions/v1/junior-dev?url=YOUR_API_ENDPOINT_URL&email=sitholeclarence9@gmail.com
+https://yhxzjyykdsfkdrmdxgho.supabase.co/functions/v1/junior-dev?url=https://string-processor-api-ktod.onrender.com/process&email=sitholeclarence9@gmail.com
 ``` 
