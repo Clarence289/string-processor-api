@@ -55,5 +55,5 @@ To deploy this API:
 2. Deploy your code
 3. Update the test endpoint URL with your deployed API URL:
 ```
-https://yhxzjyykdsfkdrmdxgho.supabase.co/functions/v1/junior-dev?url=YOUR_API_ENDPOINT_URL&email=YOUR_EMAIL_ADDRESS
+https://yhxzjyykdsfkdrmdxgho.supabase.co/functions/v1/junior-dev?url=YOUR_API_ENDPOINT_URL&email=sitholeclarence9@gmail.com
 ``` 
